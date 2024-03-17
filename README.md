@@ -17,5 +17,5 @@ Hi, I'm Chenrui Fan👋
 
 - Contrast learning based automatic video scoring.
 - Text extraction and matching algorithm in documents.
-- Vue-based web program development (Second prize of C4 - Network Technology Challenge.)
-- WeChat Small Program Development (First prize of C4 - WeChat Application Development Challenge.)
+- Vue-based web program development (Second prize of C4 - 2022 Network Technology Challenge.)
+- WeChat Small Program Development (First prize of C4 - 2022 WeChat Application Development Challenge.)
