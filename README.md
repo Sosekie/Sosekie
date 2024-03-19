@@ -4,12 +4,12 @@
 
 ⚡ My area of interest is deep learning, especially computer vision and multimodel.
 
-😋 I don't like to limit the scope of my research, I will do whatever research that interests me and makes me happy.
+😋 Limiting the scope of my research is harmful for me, I will do whatever research that interests me or bring me happy.
 
 🔭 Research I am currently working on:
 
 - Diffusion Models in Time-Series Forecasting.
-- Diffusion Model based federated learning.
+- Diffusion Models based federated learning.
 - Multimodal User Interface.
 - Document Layout Analysis.
 
