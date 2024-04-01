@@ -8,11 +8,11 @@
 
 🔭 Research I am currently working on:
 
-- Diffusion Models in Time-Series Forecasting.
-- Diffusion Models based federated learning.
+- Diffusion-Model-Based Time-Series Forecasting.
+- Generate-Model based Federated Learning.
 - Multimodal User Interface.
 - Document Layout Analysis.
-- Efficient Similarity Search.
+- Efficient Document Retrieval.
 
 🫡 I have the following project experience:
 
