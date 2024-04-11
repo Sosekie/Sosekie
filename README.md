@@ -14,7 +14,7 @@
 - Document Layout Analysis.
 - Efficient Document Retrieval.
 
-🫡 I have the following project experience:
+⛄️ I have the following project experience:
 
 - Contrast learning based automatic video scoring.
 - Text extraction and matching algorithm in hand-writing documents.
