@@ -6,10 +6,10 @@
 
 😋 I do not want to limit the scope of my research, whatever research that interests me or bring me happy is nice for me.
 
-🔭 Research I am currently working on:
+🔭 Research I'm currently working on:
 
 - Diffusion-Model-Based Time-Series Forecasting.
-- Generate-Model based Federated Learning.
+- Generated-Model-Based Federated Learning.
 - Multimodal User Interface.
 - Document Layout Analysis.
 - Efficient Document Retrieval.
