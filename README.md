@@ -4,7 +4,7 @@
 
 ⚡ My area of interest is deep learning, especially computer vision and multimodel.
 
-😋 I do not want to limit the scope of my research, whatever research that interests me or bring me happy is nice for me.
+🌟 I do not want to limit the scope of my research, whatever research that interests me or bring me happy is nice for me.
 
 🔭 Research I'm currently working on:
 
