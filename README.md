@@ -8,7 +8,7 @@
 
 🔭 Research I'm currently working on:
 
-- Diffusion-Model-Based Time-Series Forecasting.
+- Diffusion-Model-Based Time-Series Forecasting and Synthetic.
 - Generated-Model-Based Federated Learning.
 - Multimodal User Interface.
 - Document Layout Analysis.
