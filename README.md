@@ -1,18 +1,16 @@
 ### Hi, I'm Chenrui Fan👋
 
-🌱 I am currently studying Computer Science at the University of Bern, Switzerland.
+🌱 I'm studying for a master's degree in computer science at the University of Bern, Switzerland.
 
-⚡ My area of interest is deep learning, especially computer vision and multimodel.
-
-🌟 I do not want to limit the scope of my research, whatever research that interests me or bring me happy is nice for me.
+⚡ My area of interest is deep learning, especially computer vision and multimodel. But I do not want to limit the scope of my research, whatever research that interests me or bring me happy is nice for me.
 
 🔭 Research I'm currently working on:
 
-- Diffusion-Model-Based Time-Series Forecasting and Synthetic.
+- Diffusion-Model-Based Time-Series Forecasting.
 - Generated-Model-Based Federated Learning.
 - Multimodal User Interface.
 - Document Layout Analysis.
-- Efficient Document Retrieval.
+- Efficient Cherry-pick Retrieval.
 
 ⛄️ I have the following project experience:
 
